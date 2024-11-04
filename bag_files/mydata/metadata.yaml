@@ -1,0 +1,19 @@
+rosbag2_bagfile_information:
+  version: 4
+  storage_identifier: sqlite3
+  relative_file_paths:
+    - mydata_0.db3
+  duration:
+    nanoseconds: 66517919136
+  starting_time:
+    nanoseconds_since_epoch: 1730709068038226518
+  message_count: 499
+  topics_with_message_count:
+    - topic_metadata:
+        name: /scan
+        type: sensor_msgs/msg/LaserScan
+        serialization_format: cdr
+        offered_qos_profiles: ""
+      message_count: 499
+  compression_format: ""
+  compression_mode: ""
